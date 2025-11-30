@@ -1,0 +1,23 @@
+.module-card {
+    background: white;
+    padding: 1.5rem;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.module-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+}
+
+.module-card h3 {
+    font-size: 1.5rem;
+    color: #764ba2;
+    margin-bottom: 0.75rem;
+}
+
+.module-card p {
+    margin: 0.5rem 0;
+    color: #666;
+}

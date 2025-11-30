@@ -1,0 +1,11 @@
+.app-footer {
+    background-color: #2d3748;
+    color: white;
+    text-align: center;
+    padding: 1.5rem;
+    margin-top: auto;
+}
+
+.app-footer p {
+    opacity: 0.9;
+}
